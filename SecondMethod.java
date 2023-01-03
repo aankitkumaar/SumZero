@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class PrefixSum{
+public class SecondMethod{
     public static List<Integer> findElementsWithSumZero(int[] numbers) {
         // Edge case: empty array
         if (numbers.length == 0) {
@@ -56,3 +56,5 @@ public class PrefixSum{
         }
     }
 }
+
+// time complexity - O(n) and space complexity is O(n)
