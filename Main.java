@@ -57,3 +57,6 @@ public class Main {
     }
   }
 }
+
+
+//time complexity - O(n^2) and space complexity is O(n)
