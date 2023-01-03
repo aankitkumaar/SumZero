@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class FirstMethod {
   public static List<Integer> findElementsWithSumZero(int[] numbers) {
     // Edge case: empty array
     if (numbers.length == 0) {
